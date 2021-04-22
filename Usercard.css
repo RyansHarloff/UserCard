@@ -1,0 +1,51 @@
+.container{
+height: 225px;
+width: 500px;
+border: 2px solid lightgray;
+}
+
+.row{
+    height: 50px;
+    width: 500px;
+    background-color: turquoise;
+}
+
+.row img{
+    height: 55px;
+    position: fixed;
+    top: 30px;
+    left: 30px;
+}
+h2{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+h4{
+    margin-left: 40px;
+    margin-top: 0px;
+}
+
+h5{
+    margin: 0px;
+    margin-left: 20px;
+}
+
+p {
+    margin-left: 35px;
+    font-size: 11pt;
+    color: blue;
+    text-decoration: underline;
+    position: fixed;
+}
+
+.map img{
+    height: 16px;
+    position: fixed;
+    margin-top: -70px;
+    margin-left: 20px;
+}
+.gear img{
+    height: 14px;
+    margin-left: 16px;
+    margin-top: 18px;
+}
